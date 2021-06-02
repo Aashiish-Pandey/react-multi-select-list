@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  display:flex
+}
+
+ ul{
+
+list-style: none;
+}
+
+button {
+  display: block;
+  background-color: red;
+  margin-top: 20px;
+}
+
